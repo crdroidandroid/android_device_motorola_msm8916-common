@@ -239,6 +239,8 @@ PRODUCT_PACKAGES += \
 PRODUCT_DEXPREOPT_SPEED_APPS += \
     SystemUI \
     Settings \
+    Launcher3 \
+
 # Ramdisk
 PRODUCT_PACKAGES += \
     fstab.qcom \
